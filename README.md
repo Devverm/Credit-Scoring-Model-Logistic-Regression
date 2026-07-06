@@ -60,7 +60,3 @@ Banks need to identify customers who are likely to become non-performing assets 
 ## Limitations
 
 - The Hosmer–Lemeshow test p-value (< 0.0001) suggests the model's calibration is not a strong fit despite good discrimination (ROC/concordance), so probability estimates should be interpreted with caution.
-
-## Source
-
-Original project repository: [Credit-Scoring-Model-SAS-](https://github.com/Vicky-Crasto/Credit-Scoring-Model-SAS-)
